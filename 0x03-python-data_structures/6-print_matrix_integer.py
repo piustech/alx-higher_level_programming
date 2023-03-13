@@ -12,4 +12,3 @@ def print_matrix_integer(matrix=[[]]):
                     print("{:d}".format(matrix[r][c]), end=" ")
     else:
         print():x
-
